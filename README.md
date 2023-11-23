@@ -2,7 +2,7 @@
 
 The present repository contains the data used for our participation at the BioCreative VIII Track 1 Biored in both sub-tasks.
 
-The paper describing our participation (team lasigeBioTM)  will be available [here](TODO).
+The paper describing our participation (team lasigeBioTM)  will be available [here](https://zenodo.org/records/10118137).
 
 ## Data availability
 ### Tools
